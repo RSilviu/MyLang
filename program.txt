@@ -1,0 +1,33 @@
+
+ComputeArea(Real l, Real L) -> Real;
+
+AddConstToInt(Int a, Int CONST) -> Int 
+{
+5 over;
+}
+
+use Int v; Text z; into uClass; 
+
+uClass u1;
+
+Text s, t : "hello", C : "C";
+
+?!
+
+Bool 3x 3x trei_bool : {true, false, true}, 2x doi_bool;
+
+doi_bool[0] : true;
+
+s : ^t + t * (z+3) + Fct(z,4) + v[3];
+
+t : t + s;
+
+Int i, j;
+
+for i : 0, j:0; i < Factorial(10) & v + 2 < 5 | b > 3 & n < 5; inc i 10 do {}
+
+print(inc a[2] a );
+
+Max(1,2);
+
+$
